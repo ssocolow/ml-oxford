@@ -1,2 +1,4 @@
 w*/.ipynb_checkpoints
+w*/__pycache__
 practicals/mnist
+practicals/*.pt
